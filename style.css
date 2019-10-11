@@ -3,26 +3,21 @@
     padding: 0;
     box-sizing: border-box;
 }
-.milano {
-    background-image: url(https://www.informacibo.it/wp-content/uploads/2017/12/ristorantiskylineMilano-32691.jpg);
+section {
     background-size: cover;
     width: 100vw;
     height: 100vh;
     position: relative;
+
+}
+.milano {
+    background-image: url(https://www.informacibo.it/wp-content/uploads/2017/12/ristorantiskylineMilano-32691.jpg);
 }
 .londra {
     background-image: url(https://www.milanocittastato.it/wp-content/uploads/2018/06/londra-skyline.jpeg);
-    background-size: cover;
-    width: 100vw;
-    height: 100vh;
-    position: relative;
 }
 .parigi {
     background-image: url(https://st3.depositphotos.com/5213815/15652/i/1600/depositphotos_156522714-stock-photo-paris-skyline-with-eiffel-tower.jpg);
-    background-size: cover;
-    width: 100vw;
-    height: 100vh;
-    position: relative;
 }
 
 .titolo {
