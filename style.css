@@ -29,6 +29,15 @@ section {
     font-size: 35px;
     color: white;
 }
+.titolo-prova {
+    color: white;
+    text-align: center;
+    height: 60px;
+    position: relative;
+    top: calc((100% - 60px)/2);
+    font-size: 35px;
+
+}
 .overlay {
     position: absolute;
     top: 0;
